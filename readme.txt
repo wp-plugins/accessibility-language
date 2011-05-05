@@ -1,4 +1,4 @@
-=== Accessibility Abbreviation ===
+=== Accessibility Language ===
 Contributors: Hailstorm
 Tags: accessibility, abbreviation, abbr, wcag
 Requires at least: 2.0.2
