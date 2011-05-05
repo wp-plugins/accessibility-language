@@ -9,7 +9,7 @@ Add language-tags to comply with the Web Content Accessibility Guidelines
 
 == Description ==
 
-Add language-tags to your content to comply with the Web Content Accessibility Guidelines
+WCAG 1.0 Guideline 4. Clarify natural language usage: Use markup that facilitates pronunciation or interpretation of abbreviated or foreign text.
 
 == Installation ==
 
