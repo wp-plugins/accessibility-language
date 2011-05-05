@@ -1,7 +1,7 @@
 === Accessibility Language ===
 Contributors: Hailstorm
 Tags: accessibility, lang, language, wcag
-Requires at least: 2.0.2
+Requires at least: 3.0
 Tested up to: 3.1.2
 Stable tag: 1.0
 
