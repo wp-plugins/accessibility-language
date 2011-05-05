@@ -1,6 +1,6 @@
 === Accessibility Language ===
 Contributors: Hailstorm
-Tags: accessibility, abbreviation, abbr, wcag
+Tags: accessibility, language, lang, wcag
 Requires at least: 2.0.2
 Tested up to: 3.1.2
 Stable tag: 1.0
