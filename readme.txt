@@ -5,7 +5,7 @@ Requires at least: 2.0.2
 Tested up to: 3.1.2
 Stable tag: 1.0
 
-Add language-tags to comply with the Web Content Accessibility Guidelines.
+Add language-tags via TinyMCE to comply with the Web Content Accessibility Guidelines.
 
 == Description ==
 
