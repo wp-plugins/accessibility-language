@@ -1,6 +1,6 @@
 === Accessibility Language ===
 Contributors: Hailstorm
-Tags: accessibility, language, lang, wcag
+Tags: accessibility, lang, language, wcag
 Requires at least: 2.0.2
 Tested up to: 3.1.2
 Stable tag: 1.0
@@ -9,7 +9,7 @@ Add language-tags via TinyMCE to comply with the Web Content Accessibility Guide
 
 == Description ==
 
-WCAG 1.0 Guideline 4. Clarify natural language usage: Use markup that facilitates pronunciation or interpretation of abbreviated or foreign text.
+WCAG 1.0 Guideline 4: Clarify natural language usage. Use markup that facilitates pronunciation or interpretation of abbreviated or foreign text.
 
 == Installation ==
 
