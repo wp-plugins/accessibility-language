@@ -2,7 +2,7 @@
 Contributors: Hailstorm
 Tags: accessibility, lang, language, wcag
 Requires at least: 3.0
-Tested up to: 3.1.2
+Tested up to: 3.2
 Stable tag: 1.0
 
 Add language-tags via TinyMCE to comply with the Web Content Accessibility Guidelines.
